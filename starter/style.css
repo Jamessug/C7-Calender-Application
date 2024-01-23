@@ -74,3 +74,15 @@ body {
  .container {
   padding-top: 25px;
  }
+
+ .past {
+  background-color: rgb(150, 149, 149);
+ }
+
+ .present {
+  background-color: rgb(245, 133, 93);
+ }
+
+ .future {
+  background-color: #77dd77;
+ }
